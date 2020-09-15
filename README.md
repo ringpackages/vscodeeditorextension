@@ -4,4 +4,4 @@ VscodeEditorExtension package for the Ring programming language
 
 ## Install
 
-	ringpm install vscodeextension
+	ringpm install vscodeeditorextension
